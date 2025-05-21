@@ -1,0 +1,17 @@
+{
+  "dragon": {
+    "name": "Ignis",
+    "species": "Fire Drake",
+    "age_years": 450,
+    "color": "Scarlet Red",
+    "size": "Large",
+    "abilities": [
+      "Fire Breath",
+      "Flight",
+      "Enhanced Senses"
+    ],
+    "habitat": "Volcanic Mountains",
+    "description": "Ignis is a fearsome but ancient Fire Drake, known for its vibrant red scales and the devastating heat of its breath. It nests in the heart of active volcanoes, guarding a hoard of molten gold.",
+    "status": "Active"
+  }
+}
