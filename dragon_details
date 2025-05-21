@@ -1,17 +1,72 @@
-{
-  "dragon": {
-    "name": "Ignis",
-    "species": "Fire Drake",
-    "age_years": 450,
-    "color": "Scarlet Red",
-    "size": "Large",
+[
+  {
+    "id": "DRG001",
+    "name": "Ignis, the Inferno Wing",
+    "type": "Fire Dragon",
+    "age_years": 850,
+    "scales_color": ["Crimson Red", "Obsidian Black"],
     "abilities": [
-      "Fire Breath",
-      "Flight",
-      "Enhanced Senses"
+      "Fire Breath (up to 1000°C)",
+      "Volcanic Eruption Summoning",
+      "Heat Absorption"
     ],
-    "habitat": "Volcanic Mountains",
-    "description": "Ignis is a fearsome but ancient Fire Drake, known for its vibrant red scales and the devastating heat of its breath. It nests in the heart of active volcanoes, guarding a hoard of molten gold.",
-    "status": "Active"
+    "habitat": "Volcanic Peaks of Mount Cinder",
+    "personality": "Fierce, territorial, but protective of its hoard."
+  },
+  {
+    "id": "DRG002",
+    "name": "Aerion, the Sky Weaver",
+    "type": "Air Dragon",
+    "age_years": 1200,
+    "scales_color": ["Azure Blue", "Cloud White"],
+    "abilities": [
+      "Gale Force Winds",
+      "Weather Manipulation",
+      "Sonic Screech"
+    ],
+    "habitat": "Floating Islands of Zephyr",
+    "personality": "Elusive, wise, often seen soaring above the clouds."
+  },
+  {
+    "id": "DRG003",
+    "name": "Terrax, the Earth Shaper",
+    "type": "Earth Dragon",
+    "age_years": 1500,
+    "scales_color": ["Emerald Green", "Stone Grey"],
+    "abilities": [
+      "Earthquake Generation",
+      "Stone Skin (impervious to most attacks)",
+      "Gemstone Transmutation"
+    ],
+    "habitat": "Deep within the Crystal Caves",
+    "personality": "Patient, stoic, a guardian of ancient knowledge."
+  },
+  {
+    "id": "DRG004",
+    "name": "Hydraxis, the Deep Dweller",
+    "type": "Water Dragon",
+    "age_years": 900,
+    "scales_color": ["Sapphire Blue", "Seafoam Green"],
+    "abilities": [
+      "Hydrokinesis (water manipulation)",
+      "Tidal Wave Summoning",
+      "Invisibility in water"
+    ],
+    "habitat": "The Sunken City of Atlantis",
+    "personality": "Mysterious, calm, rarely seen by land-dwellers."
+  },
+  {
+    "id": "DRG005",
+    "name": "Umbra, the Shadow Whisperer",
+    "type": "Shadow Dragon",
+    "age_years": 700,
+    "scales_color": ["Midnight Black", "Deep Violet"],
+    "abilities": [
+      "Shadow Manipulation",
+      "Illusions",
+      "Fear Inducement"
+    ],
+    "habitat": "The Veiled Peaks of Nocturne",
+    "personality": "Enigmatic, mischievous, often plays tricks on travelers."
   }
-}
+]
